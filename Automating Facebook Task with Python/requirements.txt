@@ -1,0 +1,4 @@
+notebook
+jupyterlab
+ipykernel
+facebook-sdk

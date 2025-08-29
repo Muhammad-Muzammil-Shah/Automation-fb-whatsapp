@@ -1,0 +1,118 @@
+Date: 29/8/2025
+Time: 4:39
+Phone Number: +923302358711
+Message: Hello, This is a test message from Python script.
+--------------------
+Date: 29/8/2025
+Time: 4:40
+Phone Number: +923302358711
+Message: Hello, This is a test message from Python script.
+--------------------
+Date: 29/8/2025
+Time: 4:41
+Phone Number: +923302358711
+Message: Hello, This is a test message from Python script.
+--------------------
+Date: 29/8/2025
+Time: 4:45
+Phone Number: +923302358711
+Message: Hello, This is a test message from Python script.
+--------------------
+Date: 29/8/2025
+Time: 4:47
+Phone Number: +923302358711
+Message: Hello, This is a test message from Python script.
+--------------------
+Date: 29/8/2025
+Time: 4:48
+Phone Number: +923302358711
+Message: Hello, This is a test message from Python script.
+--------------------
+Date: 29/8/2025
+Time: 4:56
+Phone Number: +923302358711
+Message: Hello, This is a test message from Python script.
+--------------------
+Date: 29/8/2025
+Time: 5:0
+Phone Number: +923302358711
+Message: Hello, This is a test message from Python script.
+--------------------
+Date: 29/8/2025
+Time: 5:3
+Phone Number: +923302358711
+Message: Hello, This is a test message from Python script.
+--------------------
+Date: 29/8/2025
+Time: 5:46
+Phone Number: +923302358711
+Image: D:\myprojects\Automation\Whatsapp Automation\img.png
+Caption: This is an image sent from Python script
+--------------------
+Date: 29/8/2025
+Time: 5:47
+Phone Number: +923302358711
+Image: D:\myprojects\Automation\Whatsapp Automation\img.png
+Caption: 
+--------------------
+Date: 29/8/2025
+Time: 5:47
+Phone Number: +923302358711
+Image: img.png
+Caption: 
+--------------------
+Date: 29/8/2025
+Time: 5:49
+Phone Number: +923302358711
+Image: img.png
+Caption: 
+--------------------
+Date: 29/8/2025
+Time: 5:50
+Phone Number: +923302358711
+Image: img.png
+Caption: 
+--------------------
+Date: 29/8/2025
+Time: 5:51
+Phone Number: +923302358711
+Image: img.png
+Caption: This is an image sent from Python script
+--------------------
+Date: 29/8/2025
+Time: 6:1
+Group ID: E9HUUeote6J2SDkqVCxRYA
+Message: Hello, This is a test message from Python script.
+--------------------
+Date: 29/8/2025
+Time: 6:8
+Group ID: E9HUUeote6J2SDkqVCxRYA
+Image: img.png
+Caption: This is an image sent from Python script
+--------------------
+Date: 29/8/2025
+Time: 6:10
+Group ID: E9HUUeote6J2SDkqVCxRYA
+Image: img.png
+Caption: Hello
+--------------------
+Date: 29/8/2025
+Time: 6:15
+Group ID: E9HUUeote6J2SDkqVCxRY
+Message: Hey All!
+--------------------
+Date: 29/8/2025
+Time: 6:16
+Group ID: E9HUUeote6J2SDkqVCxRY
+Message: Hey All!
+--------------------
+Date: 29/8/2025
+Time: 6:18
+Group ID: E9HUUeote6J2SDkqVCxRY
+Message: Hey All!
+--------------------
+Date: 29/8/2025
+Time: 6:19
+Group ID: E9HUUeote6J2SDkqVCxRYA
+Message: Hey All!
+--------------------
